@@ -1,0 +1,35 @@
+[
+    {
+      "groupid": "1",
+      "name": "开发团队",
+      "history": [
+        {
+          "id": "1",
+          "timestamp": "2024-05-01 14:30",
+          "fileName": "项目计划.docx"
+        },
+        {
+          "id": "2",
+          "timestamp": "2024-05-02 09:15",
+          "fileName": "需求分析.pdf"
+        }
+      ]
+    },
+    {
+      "groupid": "2",
+      "name": "市场部",
+      "history": [
+        {
+          "id": "1",
+          "timestamp": "2024-05-01 10:20",
+          "fileName": "市场分析报告.ppt"
+        },
+        {
+          "id": "2",
+          "timestamp": "2024-05-03 11:45",
+          "fileName": "广告预算表.xlsx"
+        }
+      ]
+    }
+  ]
+  
